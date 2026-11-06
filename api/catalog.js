@@ -54,7 +54,7 @@ export default function handler(req, res) {
         title: "La próxima",
         thumbnail: "https://img.youtube.com/vi/-IsHLdQaOxo/hqdefault.jpg",
         duration: "1h 35m",
-        isFeatured: false,
+        isFeatured: true,
         badgeText: "ESTRENO Argento"
       }
     ]
