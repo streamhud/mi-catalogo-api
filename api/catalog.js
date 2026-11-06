@@ -20,13 +20,13 @@ export default function handler(req, res) {
       duration: "1h 35m",
       isFeatured: true,
       badgeText: "ESTRENO PATAGÓNICO"
-    }
-       {
-      videoId: "-IsHLdQaOxo&t",
-      title: "La proxima",
-      thumbnail: "https://img.youtube.com/vi/PPr-n3THg7Y/hqdefault.jpg",
+    },
+    {
+      videoId: "-IsHLdQaOxo",
+      title: "La próxima",
+      thumbnail: "https://img.youtube.com/vi/-IsHLdQaOxo/hqdefault.jpg",
       duration: "1h 35m",
-      isFeatured: true,
+      isFeatured: false,
       badgeText: "ESTRENO Argento"
     }
   ];
