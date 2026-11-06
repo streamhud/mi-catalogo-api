@@ -41,6 +41,14 @@ export default function handler(req, res) {
         isFeatured: true,
         badgeText: "ESTRENO PATAGÓNICO"
       },
+       {
+        videoId: "SIZ1yj5o3gY",
+        title: "Colectivo",
+        thumbnail: "https://img.youtube.com/vi/SIZ1yj5o3gY/hqdefault.jpg",
+        duration: "1h 35m",
+        isFeatured: true,
+        badgeText: "ESTRENO MUNDIAL"
+      },
       {
         videoId: "-IsHLdQaOxo",
         title: "La próxima",
