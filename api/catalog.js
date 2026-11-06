@@ -21,6 +21,14 @@ export default function handler(req, res) {
       isFeatured: true,
       badgeText: "ESTRENO PATAGÓNICO"
     }
+       {
+      videoId: "-IsHLdQaOxo&t",
+      title: "La proxima",
+      thumbnail: "https://img.youtube.com/vi/PPr-n3THg7Y/hqdefault.jpg",
+      duration: "1h 35m",
+      isFeatured: true,
+      badgeText: "ESTRENO Argento"
+    }
   ];
 
   res.status(200).json(indieCatalog);
