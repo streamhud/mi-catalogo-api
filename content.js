@@ -1,0 +1,1 @@
+const REMOTE_INDIE_CATALOG_URL = "https://tu-proyecto.vercel.app/api/catalog";
